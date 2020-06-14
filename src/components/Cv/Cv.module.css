@@ -1,0 +1,11 @@
+.leftCol {
+    background-color: rgba(80, 176, 214, 0.582);
+}
+
+.rightCol {
+    background-color: rgba(229, 245, 252, 0.582);
+}
+
+.photo {
+    width: 100%;
+}
