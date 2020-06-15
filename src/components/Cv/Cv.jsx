@@ -23,40 +23,46 @@ export default function Cv() {
                 </Col>
                 <Col lg={{ size: 6, offset: 1 }} className={styles.rightCol}>
                     <Row>
-                        <h3>Work Experience</h3>
-                        <p></p>
                         <Col lg="2"></Col>
                         <Col lg="10">
-                            <Row>
-                                <h4>
-                                    Operations Manager @ SkiBro Technologies
-                                    Ltd, Val d’Isère, London, Jersey
-                                </h4>
-                                <h5>DEC 2017 – JUL 2019</h5>
-                                <li>
-                                    Ran operations for first year of launch for
-                                    ski & snowboard lesson aggregator platform
-                                </li>
-                                <li>
-                                    Head relationship manager of lesson service
-                                    providers
-                                </li>
-                                <li>
-                                    Head of BD campaign to grow service provider
-                                    network
-                                </li>
-                                <li>
-                                    Product owner of backend management system
-                                    and service provider apps. Closely worked
-                                    with tech team to design & build products
-                                </li>
-                                <li>
-                                    Managed finances and designed service
-                                    provider payment system
-                                </li>
-                            </Row>
-                            <Row></Row>
-                            <Row></Row>
+                            <h3>Work Experience</h3>
+                            <p></p>
+                            <Col lg="2"></Col>
+                            <Col lg="10">
+                                <Row>
+                                    <h4>
+                                        Operations Manager @ SkiBro Technologies
+                                        Ltd
+                                    </h4>
+                                    <h5>Val d’Isère, London, Jersey</h5>
+                                    <h6>DEC 2017 – JUL 2019</h6>
+                                    <p lg={{ align: "left" }}>
+                                        Ran operations for first year of launch
+                                        for ski & snowboard lesson aggregator
+                                        platform
+                                    </p>
+                                    <p lg={{ align: "left" }}>
+                                        Head relationship manager of lesson
+                                        service providers
+                                    </p>
+                                    <p lg={{ align: "left" }}>
+                                        Head of BD campaign to grow service
+                                        provider network
+                                    </p>
+                                    <p lg={{ align: "left" }}>
+                                        Product owner of backend management
+                                        system and service provider apps.
+                                        Closely worked with tech team to design
+                                        & build products
+                                    </p>
+                                    <p lg={{ align: "left" }}>
+                                        Managed finances and designed service
+                                        provider payment system
+                                    </p>
+                                </Row>
+                                <Row></Row>
+                                <Row></Row>
+                            </Col>
                         </Col>
                     </Row>
                     <Row>Education</Row>
